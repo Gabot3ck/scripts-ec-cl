@@ -14,10 +14,10 @@
 </section>
 <div class="cont100">
   <section class="contEncuentranos">
-    <a class="encuentranos1" target="_blank" href="https://www.google.com/maps/place/Av.+Almte.+Blanco+Encalada+2545,+Santiago,+Regi%C3%B3n+Metropolitana/@-33.4578243,-70.6708454,17z/data=!3m1!4b1!4m6!3m5!1s0x9662c4fd0c0ff4ed:0x229cf9bc2d54c63b!8m2!3d-33.4578243!4d-70.6708454!16s%2Fg%2F11c5dy9byw">
+    <a class="encuentranos5" target="_blank" href="https://www.google.com/maps/place/Av.+Almte.+Blanco+Encalada+2545,+Santiago,+Regi%C3%B3n+Metropolitana/@-33.4578243,-70.6708454,17z/data=!3m1!4b1!4m6!3m5!1s0x9662c4fd0c0ff4ed:0x229cf9bc2d54c63b!8m2!3d-33.4578243!4d-70.6708454!16s%2Fg%2F11c5dy9byw">
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3328.6730257025556!2d-70.67084539999999!3d-33.4578243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c4fd0c0ff4ed%3A0x229cf9bc2d54c63b!2sAv.%20Almte.%20Blanco%20Encalada%202545%2C%208370413%20Santiago%2C%20Regi%C3%B3n%20Metropolitana!5e0!3m2!1ses!2scl!4v1686582425615!5m2!1ses!2scl" width="460" height="340" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </a>
-    <article class="encuentranos2">
+    <article class="encuentranos6">
       <h4>Venta Distribuidores, Mayoristas y al detalle</h4>
       <a target="_blank" href="https://www.google.com/maps/place/Av.+Almte.+Blanco+Encalada+2545,+Santiago,+Regi%C3%B3n+Metropolitana/@-33.4578243,-70.6708454,17z/data=!3m1!4b1!4m6!3m5!1s0x9662c4fd0c0ff4ed:0x229cf9bc2d54c63b!8m2!3d-33.4578243!4d-70.6708454!16s%2Fg%2F11c5dy9byw">
         <p>Av. Almirante Blanco Encalada 2545, Santiago - Chile</p>
@@ -68,7 +68,7 @@
     </a>
     
 
-    <article class="encuentranos6">
+    <article class="encuentranos2">
       <h4>Showroom / Venta al Detalle Cerrillos</h4>
       <a target="_blank" href="https://maps.app.goo.gl/JhoqNMdAhYURUKpD8">
         <p>Camino a Melipilla 7525, Cerrillos,Santiago - Chile</p>
@@ -86,7 +86,7 @@
         <b>Se realizan copias de llaves Scanavini</b>
       </p>
     </article>
-    <a class="encuentranos5" target="_blank" href="https://maps.app.goo.gl/JhoqNMdAhYURUKpD8">
+    <a class="encuentranos1" target="_blank" href="https://maps.app.goo.gl/JhoqNMdAhYURUKpD8">
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3326.8584630614155!2d-70.71596032416224!3d-33.505059373368134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662db5685ca083f%3A0x1b8159c8ba309570!2sCmo.%20a%20Melipilla%207525%2C%20Cerrillos%2C%20Regi%C3%B3n%20Metropolitana!5e0!3m2!1ses!2scl!4v1752500806821!5m2!1ses!2scl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </a>
   </section>
