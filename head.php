@@ -2,8 +2,23 @@
 <html lang="es">
 
 <head>
-	<!-- Google Tag Manager -->
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-MJ8SJHSQKB"></script>
 	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-MJ8SJHSQKB');
+	</script>
+	<!-- End Google Tag Manager -->
+
+
+	<!-- Google Tag Manager -->
+	<!-- <script>
 		(function(w, d, s, l, i) {
 			w[l] = w[l] || [];
 			w[l].push({
@@ -18,8 +33,10 @@
 				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
 			f.parentNode.insertBefore(j, f);
 		})(window, document, 'script', 'dataLayer', 'GTM-N752TV92');
-	</script>
+	</script> -->
 	<!-- End Google Tag Manager -->
+
+
 	<!-- Facebook Pixel Code -->
 	<script>
 		! function(f, b, e, v, n, t, s) {
